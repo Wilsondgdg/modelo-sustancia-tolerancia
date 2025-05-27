@@ -4,7 +4,7 @@ from scipy.integrate import odeint
 import streamlit as st
 
 st.set_page_config(layout="wide")
-st.title("Simulación del Consumo de Sustancias y Tolerancia")
+st.title("Simulación del Consumo de Sustancia y Tolerancia")
 st.markdown("Este modelo simula el efecto de diferentes patrones de consumo sobre el cuerpo humano, incluyendo la tolerancia desarrollada con el tiempo.")
 
 # Parámetros configurables desde la interfaz
